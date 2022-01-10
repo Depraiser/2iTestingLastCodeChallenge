@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge.csproj": {}
+    "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodeChallenge\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge.csproj": {
+    "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodeChallenge\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodeChallenge\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge.csproj",
         "projectName": "2iTestingLastCodingChallenge",
-        "projectPath": "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge.csproj",
+        "projectPath": "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodeChallenge\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge.csproj",
         "packagesPath": "C:\\Users\\faweh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge\\obj\\",
+        "outputPath": "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodeChallenge\\2iTestingLastCodingChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\faweh\\AppData\\Roaming\\NuGet\\NuGet.Config",

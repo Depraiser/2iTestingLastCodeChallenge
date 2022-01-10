@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gN7+UCHBq42Dagy2sP2UFGf6yuz+9bS0HlRqC6C6rgTHPHDmGLmf/Q+Y2W97AHWzqwrpfPJE0Y6Ddn8Vj63apQ==",
+  "dgSpecHash": "nh1JsfPBKy9tS/kmCZWHfrqjUzAOvWsQcCBK8sqFeLeWuSD4U77gXSHvuud/D0/PyyBc5g7ASncJM/XnMLoSuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge.csproj",
+  "projectFilePath": "C:\\Users\\faweh\\source\\repos\\2iTestingLastCodeChallenge\\2iTestingLastCodingChallenge\\2iTestingLastCodingChallenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faweh\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\faweh\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
